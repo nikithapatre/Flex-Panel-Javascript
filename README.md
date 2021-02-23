@@ -1,1 +1,1 @@
-# Flex-Panel-Javascript
+# Flex-Panel-CSS-JS
